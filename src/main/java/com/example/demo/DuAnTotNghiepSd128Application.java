@@ -8,6 +8,7 @@ public class DuAnTotNghiepSd128Application {
 
     public static void main(String[] args) {
         SpringApplication.run(DuAnTotNghiepSd128Application.class, args);
+        System.out.println("frerferfe");
     }
 
 }
