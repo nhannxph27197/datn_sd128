@@ -33,6 +33,9 @@ public class Customers {
     @Column(name = "full_name")
     private String fullName;
 
+    @Column(name = "gender")
+    private Boolean gender;
+
     @Column(name = "date_of_birth")
     private Date dateOfBirth;
 
